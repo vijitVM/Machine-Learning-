@@ -3,3 +3,4 @@ Here is the repository that contains all the problems and implementations of all
 Each Problem and it's Implementation is stored in a sepearate folder along with it's data as well for your own reference.
 
 1. Simple Word Count Program. 
+2. Simple MAtrix Calculations.
