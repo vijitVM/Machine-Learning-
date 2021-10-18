@@ -5,3 +5,7 @@ Each Problem and it's Implementation is stored in a sepearate folder along with 
 1. Simple Word Count Program
 2. Simple Matrix Calculations
 3. Simple Linear Regression using Least Squares Estimation
+4. Linear regression  to perform the following \
+* Gaaussian Solver
+* Cholskey Decomposition Solver 
+* QR Decomposition 
