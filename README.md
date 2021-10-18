@@ -7,5 +7,5 @@ Each Problem and it's Implementation is stored in a sepearate folder along with 
 3. Simple Linear Regression using Least Squares Estimation
 4. Linear regression  to perform the following
   * Gaaussian Solver
-  * Cholesky Decomposition Solver 
-  * QR Decomposition 
+     * Cholesky Decomposition Solver 
+     * QR Decomposition 
