@@ -13,4 +13,9 @@ Each Problem and it's Implementation is stored in a sepearate folder along with 
      * Simple SGA and SGD
      * SGA and SGD using Bold Driver Step Length 
      * SGA and SGD using Adagrad Step Length 
+  * Regularization and perform the following
+     * Ridge Regression 
+     * Hyper-parameter tuning and K- Fold Cross validation 
+     * Newton's Method
+  
  
