@@ -9,8 +9,8 @@ Each Problem and it's Implementation is stored in a sepearate folder along with 
      * Gaaussian Solver
      * Cholesky Decomposition Solver 
      * QR Decomposition 
- * Linear regression  to perform the following
-     * Gaaussian Solver
-     * Cholesky Decomposition Solver 
-     * QR Decomposition 
+ * Logistic Regression to perform the following 
+     * Simple SGA and SGD
+     * SGA and SGD using Bold Driver Step Length 
+     * SGA and SGD using Adagrad Step Length 
  
