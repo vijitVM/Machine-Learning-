@@ -9,3 +9,8 @@ Each Problem and it's Implementation is stored in a sepearate folder along with 
      * Gaaussian Solver
      * Cholesky Decomposition Solver 
      * QR Decomposition 
+ * Linear regression  to perform the following
+     * Gaaussian Solver
+     * Cholesky Decomposition Solver 
+     * QR Decomposition 
+ 
